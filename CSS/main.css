@@ -154,7 +154,7 @@ body {
 .landing {
   background-color: #aaa;
   height: calc(100vh - 60px);
-  background-image: url(/images/Mountains.jpg);
+  background-image: url(../images/Mountains.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
